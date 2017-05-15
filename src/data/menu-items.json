@@ -52,10 +52,10 @@
             "icon": "guardian"
           },
           {
-            "name": "Webtask",
-            "id": "webtask",
-            "href": "https://webtask.io/",
-            "icon": "webtask"
+            "name": "Auth0 Extend",
+            "id": "extend",
+            "href": "https://auth0.com/extend",
+            "icon": "extend"
           }
         ]
       }
